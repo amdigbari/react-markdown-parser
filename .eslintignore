@@ -1,0 +1,7 @@
+dist/*
+.storybook-static/*
+node_modules/*
+**/*.css
+
+babel.config.js
+rollup.config.js
